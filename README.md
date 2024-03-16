@@ -1,5 +1,6 @@
 # SLB-Hackathon--AIvengers
 **Language Translation Application using Streamlit**
+
 This application is designed to translate text content from English to another language using the Hugging Face model for translation. The core functionality of this application is to process text input, parse it into structured data, translate it into the desired language, and then save the translated content as a JSON file.
 
 **Usage:**
